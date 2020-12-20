@@ -1,1 +1,4 @@
 practice for git
+.git add
+.git commit
+
